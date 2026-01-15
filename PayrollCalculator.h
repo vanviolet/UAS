@@ -17,4 +17,4 @@ private:
     static constexpr double BASE_HOURS = 8.0;
 };
 
-#endif // PAYROLL_CALCULATOR_H
+#endif 

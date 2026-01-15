@@ -8,4 +8,4 @@ struct Employee {
     double hoursWorked = 0.0;
 };
 
-#endif // EMPLOYEE_H
+#endif
